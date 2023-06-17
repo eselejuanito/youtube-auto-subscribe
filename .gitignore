@@ -133,4 +133,5 @@ debug.log
 geckodriver.log
 .vscode/
 .idea/
+!localhost/
 localhost/*

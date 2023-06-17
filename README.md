@@ -65,7 +65,7 @@ C:\Program Files (x86)\Google\Chrome\Application>chrome.exe --remote-debugging-p
 2. Run the tool:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Contribution
